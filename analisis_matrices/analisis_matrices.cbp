@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="analisis_matrices" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/analisis_matrices" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/analisis_matrices" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../Mat_ady_NoDir.cpp" />
+		<Unit filename="../Mat_ady_NoDir.hpp" />
+		<Unit filename="../computo_de_matrices_TeoGraf.cpp" />
+		<Unit filename="../mat_acc.cpp" />
+		<Unit filename="../mat_acc.hpp" />
+		<Unit filename="../mat_ady_dir.cpp" />
+		<Unit filename="../mat_ady_dir.hpp" />
+		<Unit filename="../mat_cir.cpp" />
+		<Unit filename="../mat_cir.hpp" />
+		<Unit filename="../mat_inc_NoDir.cpp" />
+		<Unit filename="../mat_inc_NoDir.hpp" />
+		<Unit filename="../mat_inc_dir.cpp" />
+		<Unit filename="../mat_inc_dir.hpp" />
+		<Unit filename="../mat_tra.cpp" />
+		<Unit filename="../mat_tra.hpp" />
+		<Unit filename="../salvador_matriz_char.cpp" />
+		<Unit filename="../salvador_matriz_char.hpp" />
+		<Unit filename="../salvador_matriz_int.cpp" />
+		<Unit filename="../salvador_matriz_int.hpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

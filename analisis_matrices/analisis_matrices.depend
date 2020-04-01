@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1558119061 source:c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\salvador_matriz.cpp
+	<cstdlib>
+	<cmath>
+	<iostream>
+	<algorithm>
+	<iomanip>
+	"salvador_matriz.hpp"
+
+1558118778 c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\salvador_matriz.hpp
+	<cmath>
+	<string>
+	<iostream>
+
+1559102524 source:c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\computo_de_matrices_teograf.cpp
+	<iostream>
+	"salvador_matriz_int.hpp"
+	"mat_ady_NoDir.hpp"
+	"mat_ady_dir.hpp"
+	"mat_inc_NoDir.hpp"
+	"mat_inc_dir.hpp"
+	"mat_acc.hpp"
+	"mat_cir.hpp"
+	"mat_tra.hpp"
+
+1558326778 c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\mat_ady_dir.hpp
+	"salvador_matriz_int.hpp"
+	<windows.h>
+
+1559085325 source:c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\mat_ady_dir.cpp
+	"mat_ady_dir.hpp"
+	<vector>
+	<algorithm>
+
+1559080164 c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\salvador_matriz_int.hpp
+	<cmath>
+	<string>
+	<iostream>
+
+1559080164 source:c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\salvador_matriz_int.cpp
+	<cstdlib>
+	<cmath>
+	<iostream>
+	<algorithm>
+	<iomanip>
+	"salvador_matriz_int.hpp"
+
+1558339821 source:c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\salvador_matriz_char.cpp
+	<cstdlib>
+	<cmath>
+	<iostream>
+	<algorithm>
+	<iomanip>
+	"salvador_matriz_char.hpp"
+
+1558332392 c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\salvador_matriz_char.hpp
+	<cmath>
+	<string>
+	<iostream>
+
+1558344993 c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\mat_inc_dir.hpp
+	"salvador_matriz_int.hpp"
+	<windows.h>
+
+1559088789 source:c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\mat_inc_dir.cpp
+	"mat_inc_dir.hpp"
+	<vector>
+	<algorithm>
+
+1559059955 c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\mat_cir.hpp
+	"salvador_matriz_int.hpp"
+	<windows.h>
+
+1559081387 source:c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\mat_cir.cpp
+	"mat_cir.hpp"
+
+1559095167 c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\mat_ady_nodir.hpp
+	"salvador_matriz_int.hpp"
+	<windows.h>
+
+1559085840 source:c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\mat_ady_nodir.cpp
+	"mat_ady_NoDir.hpp"
+	<vector>
+	<algorithm>
+
+1559088185 c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\mat_tra.hpp
+	"salvador_matriz_int.hpp"
+	<windows.h>
+
+1559088644 source:c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\mat_tra.cpp
+	"mat_tra.hpp"
+	<vector>
+
+1559095172 c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\mat_inc_nodir.hpp
+	"salvador_matriz_int.hpp"
+	<windows.h>
+
+1559098670 source:c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\mat_inc_nodir.cpp
+	"mat_inc_NoDir.hpp"
+	<vector>
+	<algorithm>
+
+1559102524 c:\users\salva\documents\unam\teoriadegraficas\progr_analisis_matrices\mat_acc.hpp
+	"salvador_matriz_int.hpp"
+	<windows.h>
+
